@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="yellow_transparent">#BFFDB813</color>
+    <color name="yellow">#FDB813</color>
+    <color name="textGray">#959595</color>
+    <color name="black_transparent">#4d000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="red">#E63E32</color>
+    <color name="red_dark">#892720</color>
+    <color name="red_new">#E93F33</color>
+    <color name="green">#6BBF40</color>
+    <color name="dark_green">#758828</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_tranparent">#A6FFFFFF</color>
+    <color name="gray_light">#F2F2F2</color>
+    <color name="gray_balance">#F9F9F9</color>
+    <color name="gray_text">#8F8F8F</color>
+
+
+    <color name="digiSecundaryColor">#F30707</color>
+    <color name="digiTextColor">#A9A9A9</color>
+    <color name="digiCircleProfileBorder">#FFFFFF</color>
+    <color name="digiMainColor">#110DA2</color>
+    <color name="webViewTextColor">#110DA2</color>
+
+
+    <color name="gray_medium">#777777</color>
+    <color name="gray_dark">#757575</color>
+    <color name="gray_transfer">#dedede</color>
+    <color name="gray_dependent">#efefef</color>
+    <color name="gray_dark_text">#333333</color>
+    <color name="gray_nav">#373737</color>
+
+    <color name="green_light">#6DD1D9</color>
+    <color name="green_leaf">#387175</color>
+
+    <color name="shape_round_background">#475759</color>
+
+    <!-- Novas cores da identidade visual do app -->
+    <color name="blue_steel">#4b5e80</color>
+
+    <color name="text_blue">#041f54</color>
+
+    <color name="dark_blue">#1A2968</color>
+    <color name="background_gray">#f4f4f4</color>
+    <color name="white_tranparent_home">#A6FFFFFF</color>
+    <color name="dark_gray">#e2e2e2</color>
+
+    <color name="color_transport">#7baf3a</color>
+    <color name="color_feeding">#d43d65</color>
+    <color name="color_shop">#f19632</color>
+    <color name="color_recreation">#62aeb8</color>
+    <color name="color_misc">#d1d1d1</color>
+
+    <color name="invoice_entry_background_even">#FFFFFF</color>
+    <color name="invoice_entry_background_odd">#fbfbff</color>
+
+    <color name="colorCardTop">#1A2968</color>
+    <color name="colorCardBottom">#17255c</color>
+    <color name="colorCardBorder">#111b42</color>
+    <color name="colorCardText">#8e98b4</color>
+    <color name="colorArrowBackground">#641A2968</color>
+
+    <color name="colorGrayCardDark">#b7b7b7</color>
+    <color name="colorGrayCard">#dadada</color>
+    <color name="colorGrayCardLight">#e0e0e0</color>
+    <color name="colorEditText">#999999</color>
+
+    <color name="opaque_blue">#4C5E7F</color>
+
+    <color name="line_chart_fill">#e7e9ec</color>
+    <color name="chart_fill">#e7e9ec</color>
+    <color name="red_request">#FF2800</color>
+    <color name="success_color">#00897B</color>
+    <color name="warning_color">#F4511E</color>
+    <color name="hint_color">#e7e9ec</color>
+    <color name="white_relative">#f5f5f5</color>
+    <color name="white_card_loterica">#fbfbfb</color>
+</resources>
